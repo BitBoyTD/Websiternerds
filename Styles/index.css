@@ -1,0 +1,23 @@
+html{
+    background-color: #1c1c1c;
+    font-family: sans-serif;   
+}
+
+p{
+    color: #9e1587;
+}
+
+body{
+    font-family: sans-serif
+}
+
+button{
+    background-color: #07a60f;
+    color: #000000;
+    border-color: #07a60f;
+}
+
+.title {
+    color: #c227a8;
+    font-weight: bold;    
+}
