@@ -4,16 +4,27 @@ html {
     margin: 0 270px 0 270px;
 }
 
+body {
+    font-family: sans-serif;
+}
+
 p {
     color: #99aab5;
     font-size: 20px;
     text-align: center;
 }
 
-body {
-    font-family: sans-serif;
+a{
+    color: #7289da;
+    font-size: 24px;
+    text-decoration: none;
+    border-color: #7289da;
+    border-width: 7px;
+    padding: 20px 20px 20px 20px;
+    background-color: #23272a;
+    border-radius: 25px;
+    border: solid;
 }
-
 button {
     background-color: #23272a;
     color: #7289da;
@@ -22,7 +33,6 @@ button {
     border-width: 7px;
     padding: 20px 20px 20px 20px;
     font-size: 24px;
-    text-align: center;
 }
 
 .title {
